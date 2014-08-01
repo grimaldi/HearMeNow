@@ -4,6 +4,7 @@
 //
 //  Created by Jason Chiou on 8/1/14.
 //  Copyright (c) 2014 Jason Chiou. All rights reserved.
+//  This is the view controller implementation file
 //
 
 #import "ViewController.h"
